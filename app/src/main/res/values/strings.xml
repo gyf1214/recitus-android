@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Recitus</string>
+    <string name="btn_yes">OK</string>
+    <string name="btn_no">NG</string>
+    <string name="placeholder">Test</string>
+</resources>

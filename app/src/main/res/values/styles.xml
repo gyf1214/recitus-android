@@ -1,0 +1,9 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:background">@color/primary</item>
+    </style>
+    <style name="BtnTheme" parent="android:Widget.Button">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/press</item>
+    </style>
+</resources>
